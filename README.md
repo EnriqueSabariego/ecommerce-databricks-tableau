@@ -7,6 +7,10 @@ following a Bronze / Silver / Gold architecture, with final insights visualized 
 Tableau Public link:
 https://public.tableau.com/app/profile/enrique.sabariego/viz/Proyecto_1_17687371985130/Dashboard1
 
+## 📊 Dashboard Preview
+
+![Tableau Dashboard](images/tableau_dashboard_overview.png)
+
 ## 🗂 Dataset
 Online retail transactional data (CSV format).
 
