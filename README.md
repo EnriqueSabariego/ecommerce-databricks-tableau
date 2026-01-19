@@ -5,7 +5,7 @@ following a Bronze / Silver / Gold architecture, with final insights visualized 
 
 ## 📊 Dashboard
 Tableau Public link:
-https://public.tableau.com/app/profile/enrique.sabariego/viz/Proyecto_1_17687371985130/Dashboard1
+[https://public.tableau.com/app/profile/enrique.sabariego/viz/Proyecto_1_17687371985130/Dashboard1](https://public.tableau.com/app/profile/enrique.sabariego/viz/Project_1_17688234712070/Dashboard1?publish=yes)
 
 ## 📊 Dashboard Preview
 
