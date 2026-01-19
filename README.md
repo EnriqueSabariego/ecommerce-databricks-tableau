@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/enrique.sabariego/viz/Proyecto_1_17687371
 
 ## 📊 Dashboard Preview
 
-![Tableau Dashboard](images/tableau_dashboard_overview)
+![Tableau Dashboard](images/tableau_dashboard_overview.pnj)
 
 ## 🗂 Dataset
 Online retail transactional data (CSV format).
